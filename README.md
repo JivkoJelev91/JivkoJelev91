@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JivkoJelev91
-- 👀 I’m interested in front-end web development
+- 👀 I’m interested in Front-End Web development
 - 🌱 I’m currently learning everything new around React ecosystem
 
 <!---
